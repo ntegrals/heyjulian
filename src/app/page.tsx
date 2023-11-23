@@ -44,8 +44,13 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="pt-[60px] rounded-lg">
-          <img src="./images/me5.png" alt="Me" width={550} />
+        <div className="pt-[60px]">
+          <img
+            className="rounded-3xl"
+            src="./images/me5.png"
+            alt="Me"
+            width={550}
+          />
         </div>
       </div>
     </div>

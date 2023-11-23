@@ -102,9 +102,14 @@ export default function page() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5 }}
-          className="mt-10 md:mt-0 rounded-lg"
+          className="mt-10 md:mt-0"
         >
-          <img src="./images/me5.png" alt="Me" width={550} />
+          <img
+            className="rounded-3xl"
+            src="./images/me5.png"
+            alt="Me"
+            width={550}
+          />
         </motion.div>
       </div>
     </div>
