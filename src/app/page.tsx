@@ -44,7 +44,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="pt-[60px]">
+        <div className="pt-[60px] rounded-lg">
           <img src="./images/me5.png" alt="Me" width={550} />
         </div>
       </div>
