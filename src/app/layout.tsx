@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Julian Schoen",
-  description: "- My virtual self",
+  description: "My virtual self",
 };
 
 export default function RootLayout({

@@ -10,7 +10,7 @@ export default function Home() {
           <div className="mt-24 sm:mt-32 lg:mt-16">
             <a href="#" className="inline-flex space-x-6">
               <span className="font-medium text-transparent text-sm bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-                <span>Virtual Me</span>
+                <span>Virtual Self</span>
               </span>
             </a>
           </div>
